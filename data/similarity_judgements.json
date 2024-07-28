@@ -1,0 +1,3096 @@
+[{
+  "_id": {
+    "$oid": "667c632e222bac883521a7d9"
+  },
+  "userId": "id_byzdrn2y2",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_24889.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_68763.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_24889.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_16743.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "667c635abc87b358be226faa"
+  },
+  "userId": "id_q0j33hksx",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_105923.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_45291.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_105923.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_45101.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "667c636d222bac883521a7da"
+  },
+  "userId": "id_byzdrn2y2",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_16797.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_105923.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_45101.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_16797.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "667c6377222bac883521a7db"
+  },
+  "userId": "id_byzdrn2y2",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_36035.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_36035.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_16743.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_105923.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "667c637d222bac883521a7dc"
+  },
+  "userId": "id_byzdrn2y2",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_16797.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_45101.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_16797.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_105923.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "667c6385222bac883521a7dd"
+  },
+  "userId": "id_byzdrn2y2",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_112648.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_23157.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_112648.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_68763.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "667c6395bc87b358be226fab"
+  },
+  "userId": "id_q0j33hksx",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_23157.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_107204.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_16797.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_23157.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "667c63c6bc87b358be226fac"
+  },
+  "userId": "id_byzdrn2y2",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_107204.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_16797.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_107204.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_22791.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "667c63dcbc87b358be226fad"
+  },
+  "userId": "id_byzdrn2y2",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_47728.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_105923.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_47728.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_36035.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "667c63eabc87b358be226fae"
+  },
+  "userId": "id_byzdrn2y2",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_22791.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_22791.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_16797.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_23157.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "667c63efbc87b358be226faf"
+  },
+  "userId": "id_byzdrn2y2",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_99462.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_16797.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_99462.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_68763.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "667c63f2bc87b358be226fb0"
+  },
+  "userId": "id_q0j33hksx",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_47728.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_16797.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_24889.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_47728.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "667c63f8bc87b358be226fb1"
+  },
+  "userId": "id_byzdrn2y2",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_105923.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_45101.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_16743.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_105923.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "667c6412bc87b358be226fb2"
+  },
+  "userId": "id_q0j33hksx",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_112648.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_22791.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_68763.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_112648.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "667c6432bc87b358be226fb4"
+  },
+  "userId": "id_q0j33hksx",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_45291.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_45291.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_112648.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_41465.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "667c6453bc87b358be226fb5"
+  },
+  "userId": "id_q0j33hksx",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_68763.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_16743.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_68763.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_45291.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "667c6466bc87b358be226fb6"
+  },
+  "userId": "id_q0j33hksx",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_47728.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_47728.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_16797.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_16743.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "667c648cbc87b358be226fb7"
+  },
+  "userId": "id_q0j33hksx",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_105923.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_105923.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_16743.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_107204.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "667c64abbc87b358be226fb8"
+  },
+  "userId": "id_q0j33hksx",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_105923.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_68763.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_41465.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_105923.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "667c64ce270368330cf75414"
+  },
+  "userId": "id_q0j33hksx",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_107204.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_107204.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_24889.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_112648.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "667c69bfaf1f32358f1aa315"
+  },
+  "userId": "id_j0b6pbmia",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_36035.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_16743.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_16797.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_36035.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "667c69d14c6ec1cca61705e8"
+  },
+  "userId": "id_j0b6pbmia",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_112648.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_105923.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_112648.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_45291.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "667c69df4c6ec1cca61705e9"
+  },
+  "userId": "id_j0b6pbmia",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_36035.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_36035.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_41465.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_16797.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "667c69e94c6ec1cca61705ea"
+  },
+  "userId": "id_j0b6pbmia",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_23157.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_36035.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_22791.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_23157.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "667c69fd4c6ec1cca61705eb"
+  },
+  "userId": "id_j0b6pbmia",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_16797.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_16797.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_68763.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_22791.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "667c6a124c6ec1cca61705ec"
+  },
+  "userId": "id_j0b6pbmia",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_47728.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_112648.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_22791.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_47728.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "667c6a194c6ec1cca61705ed"
+  },
+  "userId": "id_j0b6pbmia",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_22791.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_22791.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_45291.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_107204.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "667c6a1e4c6ec1cca61705ee"
+  },
+  "userId": "id_j0b6pbmia",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_45291.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_41465.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_45291.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_16797.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "667c6a264c6ec1cca61705ef"
+  },
+  "userId": "id_j0b6pbmia",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_22791.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_41465.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_68763.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_22791.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "667c6a3d7f9d388f5502363c"
+  },
+  "userId": "id_j0b6pbmia",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_36035.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_22791.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_112648.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_36035.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "667c6ba26a1e4c154a2d81bf"
+  },
+  "userId": "id_j0b6pbmia",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_45101.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_16743.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_45101.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_22791.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "667c6ba66a1e4c154a2d81c0"
+  },
+  "userId": "id_j0b6pbmia",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_45101.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_45101.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_112648.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_68763.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "667c6bae7f9d388f5502363e"
+  },
+  "userId": "id_j0b6pbmia",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_107204.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_45101.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_107204.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_105923.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "667c6be47f9d388f5502363f"
+  },
+  "userId": "id_j0b6pbmia",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_16743.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_112648.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_107204.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_16743.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "667c6bf76a1e4c154a2d81c1"
+  },
+  "userId": "id_j0b6pbmia",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_16743.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_16743.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_107204.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_22791.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "667c6bfd7f9d388f55023640"
+  },
+  "userId": "id_rco4p2vne",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_22791.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_45291.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_22791.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_105923.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "667c6c016a1e4c154a2d81c2"
+  },
+  "userId": "id_j0b6pbmia",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_68763.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_41465.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_112648.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_68763.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "667c6c054c6ec1cca61705f0"
+  },
+  "userId": "id_j0b6pbmia",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_99462.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_16743.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_68763.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_99462.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "667c6c0a7f9d388f55023641"
+  },
+  "userId": "id_j0b6pbmia",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_68763.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_16797.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_68763.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_16743.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "667c6c0e7f9d388f55023642"
+  },
+  "userId": "id_j0b6pbmia",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_45101.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_16743.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_112648.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_45101.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "667c6c134c6ec1cca61705f1"
+  },
+  "userId": "id_j0b6pbmia",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_36035.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_112648.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_24889.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_36035.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "667d129df5548ac5f81d02d3"
+  },
+  "userId": "id_frm140mco",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_99462.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_99462.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_105923.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_23157.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "667d24fae20a820d69a6edf8"
+  },
+  "userId": "id_s263pjce5",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_41465.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_45101.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_41465.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_45291.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "667d24fbe20a820d69a6edf9"
+  },
+  "userId": "id_s263pjce5",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_41465.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_45101.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_41465.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_45291.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "667d250ee20a820d69a6edfa"
+  },
+  "userId": "id_s263pjce5",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_16743.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_45101.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_105923.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_16743.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "667d2791ab49a3aa70cd174f"
+  },
+  "userId": "id_s263pjce5",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_107204.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_22791.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_107204.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_16797.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "667d2791ab49a3aa70cd1750"
+  },
+  "userId": "id_s263pjce5",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_107204.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_22791.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_107204.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_16797.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "667d27a6d8b5a05ec89aaccc"
+  },
+  "userId": "id_s263pjce5",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_107204.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_107204.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_24889.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_45291.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "667d27b1d8b5a05ec89aaccd"
+  },
+  "userId": "id_s263pjce5",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_105923.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_105923.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_16797.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_47728.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "667d27bed8b5a05ec89aacce"
+  },
+  "userId": "id_s263pjce5",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_16743.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_16743.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_99462.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_45291.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "667d27c7d8b5a05ec89aaccf"
+  },
+  "userId": "id_s263pjce5",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_45101.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_45101.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_22791.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_36035.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "667d27d8d8b5a05ec89aacd0"
+  },
+  "userId": "id_s263pjce5",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_45291.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_45291.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_41465.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_107204.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "667d8313c61e255bc5c8d091"
+  },
+  "userId": "id_rbgx9qm4x",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_23157.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_45291.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_24889.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_23157.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "667d8321c61e255bc5c8d092"
+  },
+  "userId": "id_rbgx9qm4x",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_99462.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_99462.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_41465.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_45101.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "667d8336c61e255bc5c8d093"
+  },
+  "userId": "id_rbgx9qm4x",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_105923.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_105923.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_36035.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_41465.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "667d8343c61e255bc5c8d094"
+  },
+  "userId": "id_rbgx9qm4x",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_16797.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_68763.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_16797.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_16743.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "667d837450f15314a89fd645"
+  },
+  "userId": "id_rbgx9qm4x",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_99462.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_22791.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_99462.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_105923.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "667d839650f15314a89fd646"
+  },
+  "userId": "id_rbgx9qm4x",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_16797.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_68763.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_16797.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_107204.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "667d83a950f15314a89fd647"
+  },
+  "userId": "id_rbgx9qm4x",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_105923.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_112648.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_22791.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_105923.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "667d83af50f15314a89fd648"
+  },
+  "userId": "id_rbgx9qm4x",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_99462.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_99462.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_22791.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_45101.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "667d83fa8b3924aaeeda9a55"
+  },
+  "userId": "id_rbgx9qm4x",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_112648.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_16743.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_112648.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_22791.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "667d842fc61e255bc5c8d095"
+  },
+  "userId": "id_rbgx9qm4x",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_16797.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_16743.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_22791.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_16797.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "667d843750f15314a89fd649"
+  },
+  "userId": "id_rbgx9qm4x",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_36035.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_45291.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_112648.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_36035.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "667d844050f15314a89fd64a"
+  },
+  "userId": "id_rbgx9qm4x",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_24889.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_16743.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_112648.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_24889.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "667d844d50f15314a89fd64b"
+  },
+  "userId": "id_rbgx9qm4x",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_99462.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_107204.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_99462.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_41465.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "667d845750f15314a89fd64c"
+  },
+  "userId": "id_rbgx9qm4x",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_16743.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_16743.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_41465.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_112648.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "667d847550f15314a89fd64d"
+  },
+  "userId": "id_rbgx9qm4x",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_47728.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_68763.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_47728.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_24889.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "667d847a8b3924aaeeda9a56"
+  },
+  "userId": "id_rbgx9qm4x",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_23157.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_23157.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_16743.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_45101.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "667d84898b3924aaeeda9a57"
+  },
+  "userId": "id_rbgx9qm4x",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_45291.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_68763.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_45291.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_112648.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "667d848e8b3924aaeeda9a58"
+  },
+  "userId": "id_rbgx9qm4x",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_23157.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_23157.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_36035.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_107204.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "667d92836838bde51d3ca23b"
+  },
+  "userId": "id_755ubcyk3",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_45101.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_45101.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_22791.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_41465.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "667d92f06ec2c2df847d218f"
+  },
+  "userId": "id_755ubcyk3",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_99462.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_99462.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_68763.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_16743.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "667d93266ec2c2df847d2190"
+  },
+  "userId": "id_755ubcyk3",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_23157.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_16743.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_23157.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_22791.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "667d94059a620024a03546a7"
+  },
+  "userId": "id_755ubcyk3",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_45291.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_36035.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_68763.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_45291.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "667d943b9a620024a03546a8"
+  },
+  "userId": "id_755ubcyk3",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_107204.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_107204.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_45291.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_24889.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "667d947e9a620024a03546a9"
+  },
+  "userId": "id_755ubcyk3",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_112648.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_112648.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_24889.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_99462.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "667d94b89a620024a03546aa"
+  },
+  "userId": "id_755ubcyk3",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_23157.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_24889.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_23157.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_99462.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "667d95049a620024a03546ab"
+  },
+  "userId": "id_755ubcyk3",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_16743.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_16743.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_112648.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_16797.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "667d95409a620024a03546ac"
+  },
+  "userId": "id_755ubcyk3",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_107204.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_99462.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_107204.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_45291.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "667d95599a620024a03546ad"
+  },
+  "userId": "id_755ubcyk3",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_112648.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_23157.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_112648.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_16743.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "667da004b5e987aae1ce07e3"
+  },
+  "userId": "id_y7jnz3h40",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_23157.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_24889.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_105923.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_23157.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "667da049b5e987aae1ce07e4"
+  },
+  "userId": "id_y7jnz3h40",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_23157.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_107204.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_23157.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_16797.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "667da9a4a09d21a2e3b7cfeb"
+  },
+  "userId": "id_78t7lgelw",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_24889.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_24889.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_16743.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_45101.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "667da9fd4b6a08a3d94006fd"
+  },
+  "userId": "id_78t7lgelw",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_16797.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_45291.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_24889.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_16797.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "667daa284b6a08a3d94006fe"
+  },
+  "userId": "id_78t7lgelw",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_99462.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_16797.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_41465.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_99462.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "667daa8b4b6a08a3d94006ff"
+  },
+  "userId": "id_78t7lgelw",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_47728.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_112648.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_47728.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_41465.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "667daaac4b6a08a3d9400700"
+  },
+  "userId": "id_78t7lgelw",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_45291.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_112648.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_24889.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_45291.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "667daad14b6a08a3d9400701"
+  },
+  "userId": "id_78t7lgelw",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_47728.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_68763.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_24889.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_47728.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "667dab114b6a08a3d9400702"
+  },
+  "userId": "id_78t7lgelw",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_41465.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_23157.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_16743.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_41465.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "667dab384b6a08a3d9400703"
+  },
+  "userId": "id_78t7lgelw",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_36035.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_36035.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_16743.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_112648.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "667dab464b6a08a3d9400704"
+  },
+  "userId": "id_78t7lgelw",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_45101.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_45101.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_68763.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_99462.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "667ea6af727324598170f6f8"
+  },
+  "userId": "id_lp1xw7obn",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_107204.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_47728.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_23157.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_107204.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "667ea6c464899aeb7761053d"
+  },
+  "userId": "id_lp1xw7obn",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_99462.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_99462.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_22791.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_24889.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "667ea70264899aeb7761053e"
+  },
+  "userId": "id_lp1xw7obn",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_23157.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_107204.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_24889.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_23157.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "667ea732727324598170f6f9"
+  },
+  "userId": "id_lp1xw7obn",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_41465.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_41465.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_16743.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_105923.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "667ea75c64899aeb7761053f"
+  },
+  "userId": "id_lp1xw7obn",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_16797.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_16797.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_45101.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_47728.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "667ea77264899aeb77610540"
+  },
+  "userId": "id_lp1xw7obn",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_41465.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_41465.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_105923.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_16743.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "667ea786a96446e7d51e29d8"
+  },
+  "userId": "id_lp1xw7obn",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_45101.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_45291.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_45101.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_16797.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "667ea7b4727324598170f6fa"
+  },
+  "userId": "id_lp1xw7obn",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_23157.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_107204.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_99462.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_23157.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "667ea7d0727324598170f6fb"
+  },
+  "userId": "id_lp1xw7obn",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_45101.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_41465.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_99462.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_45101.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "667ea7f3727324598170f6fc"
+  },
+  "userId": "id_lp1xw7obn",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_45101.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_45101.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_41465.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_24889.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "667ef1a68ea162332ee686bd"
+  },
+  "userId": "id_jj7jube9d",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_47728.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_24889.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_22791.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_47728.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "667ef1ba039817557591d028"
+  },
+  "userId": "id_jj7jube9d",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_36035.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_23157.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_45101.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_36035.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "667ef23b8ea162332ee686be"
+  },
+  "userId": "id_jj7jube9d",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_16743.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_16743.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_47728.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_41465.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "667ef2ca8ea162332ee686bf"
+  },
+  "userId": "id_jj7jube9d",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_22791.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_16743.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_22791.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_107204.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "667ef320039817557591d029"
+  },
+  "userId": "id_jj7jube9d",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_23157.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_45291.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_23157.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_16743.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "667ef4067758ff43cfca3c04"
+  },
+  "userId": "id_jj7jube9d",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_16797.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_16797.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_112648.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_36035.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "667ef447039817557591d02a"
+  },
+  "userId": "id_jj7jube9d",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_107204.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_45101.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_107204.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_47728.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "667ef4b87758ff43cfca3c05"
+  },
+  "userId": "id_kgjuzfbp5",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_47728.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_47728.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_24889.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_107204.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "667ef4d0039817557591d02b"
+  },
+  "userId": "id_kgjuzfbp5",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_45101.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_45291.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_16797.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_45101.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "667ef4e1039817557591d02c"
+  },
+  "userId": "id_kgjuzfbp5",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_112648.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_16797.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_47728.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_112648.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "667ef4f9039817557591d02d"
+  },
+  "userId": "id_kgjuzfbp5",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_112648.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_47728.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_23157.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_112648.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "667ef506039817557591d02e"
+  },
+  "userId": "id_kgjuzfbp5",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_36035.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_23157.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_36035.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_105923.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "667ef536039817557591d02f"
+  },
+  "userId": "id_kgjuzfbp5",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_99462.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_45291.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_24889.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_99462.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "667ef540039817557591d030"
+  },
+  "userId": "id_kgjuzfbp5",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_24889.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_45101.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_23157.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_24889.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "667ef581039817557591d031"
+  },
+  "userId": "id_kgjuzfbp5",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_47728.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_105923.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_47728.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_45101.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "667ef5957758ff43cfca3c06"
+  },
+  "userId": "id_kgjuzfbp5",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_105923.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_105923.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_112648.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_45291.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "667ef5bf7758ff43cfca3c07"
+  },
+  "userId": "id_kgjuzfbp5",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_47728.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_16743.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_112648.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_47728.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "667fce2765989cfdf32490a8"
+  },
+  "userId": "id_k674naqak",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_45101.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_45101.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_16797.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_36035.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "667fce4e65989cfdf32490a9"
+  },
+  "userId": "id_k674naqak",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_22791.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_107204.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_22791.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_36035.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "667fce5a65989cfdf32490aa"
+  },
+  "userId": "id_k674naqak",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_45101.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_24889.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_22791.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_45101.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "667fceac65989cfdf32490ab"
+  },
+  "userId": "id_k674naqak",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_105923.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_16743.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_45291.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_105923.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "667fceb865989cfdf32490ac"
+  },
+  "userId": "id_k674naqak",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_24889.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_23157.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_24889.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_105923.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "667fced265989cfdf32490ad"
+  },
+  "userId": "id_k674naqak",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_23157.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_23157.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_68763.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_16743.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "667fcee465989cfdf32490ae"
+  },
+  "userId": "id_k674naqak",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_68763.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_16797.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_99462.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_68763.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "667fcef365989cfdf32490af"
+  },
+  "userId": "id_k674naqak",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_68763.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_47728.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_22791.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_68763.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "667fcf0065989cfdf32490b0"
+  },
+  "userId": "id_k674naqak",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_24889.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_41465.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_36035.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_24889.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "667fcf2065989cfdf32490b1"
+  },
+  "userId": "id_k674naqak",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_99462.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_99462.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_24889.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_22791.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "668001b9c11a1e6b1949271d"
+  },
+  "userId": "id_vfhpfq2x7",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_45101.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_22791.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_45101.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_47728.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "668001d9dcbfdad1c71fa817"
+  },
+  "userId": "id_vfhpfq2x7",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_23157.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_22791.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_23157.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_16797.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6680026dc11a1e6b1949271e"
+  },
+  "userId": "id_vfhpfq2x7",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_36035.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_36035.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_112648.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_24889.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "668002f84f0f933576e770f4"
+  },
+  "userId": "id_vfhpfq2x7",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_16743.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_45291.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_16743.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_22791.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66800313dcbfdad1c71fa818"
+  },
+  "userId": "id_vfhpfq2x7",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_105923.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_105923.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_22791.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_41465.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66800360dcbfdad1c71fa819"
+  },
+  "userId": "id_vfhpfq2x7",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_68763.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_107204.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_16797.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_68763.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66800370dcbfdad1c71fa81a"
+  },
+  "userId": "id_vfhpfq2x7",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_47728.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_22791.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_47728.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_45291.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "668003794f0f933576e770f5"
+  },
+  "userId": "id_vfhpfq2x7",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_68763.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_105923.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_23157.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_68763.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "668003a34f0f933576e770f6"
+  },
+  "userId": "id_vfhpfq2x7",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_22791.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_22791.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_68763.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_45101.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "668003b84f0f933576e770f7"
+  },
+  "userId": "id_vfhpfq2x7",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_16743.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_16743.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_99462.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_24889.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66800508dcbfdad1c71fa81b"
+  },
+  "userId": "id_vfhpfq2x7",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_22791.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_24889.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_22791.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_36035.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6680051b4f0f933576e770f8"
+  },
+  "userId": "id_vfhpfq2x7",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_16743.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_107204.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_36035.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_16743.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "668005224f0f933576e770f9"
+  },
+  "userId": "id_vfhpfq2x7",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_41465.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_99462.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_23157.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_41465.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6680053adcbfdad1c71fa81c"
+  },
+  "userId": "id_vfhpfq2x7",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_16797.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_16797.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_45291.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_24889.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66800571dcbfdad1c71fa81d"
+  },
+  "userId": "id_vfhpfq2x7",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_99462.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_22791.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_107204.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_99462.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6680057adcbfdad1c71fa81e"
+  },
+  "userId": "id_vfhpfq2x7",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_23157.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_23157.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_16743.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_45101.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6680059ddcbfdad1c71fa81f"
+  },
+  "userId": "id_vfhpfq2x7",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_16743.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_22791.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_16743.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_16797.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "668005b2dcbfdad1c71fa820"
+  },
+  "userId": "id_vfhpfq2x7",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_45101.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_16797.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_45101.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_16743.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "668005dd4f0f933576e770fa"
+  },
+  "userId": "id_vfhpfq2x7",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_36035.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_41465.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_16797.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_36035.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "668005f8dcbfdad1c71fa821"
+  },
+  "userId": "id_vfhpfq2x7",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_112648.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_16797.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_68763.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_112648.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "668115f335559395c9bb0806"
+  },
+  "userId": "id_zzfk7kns4",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_112648.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_16797.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_24889.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_112648.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6681161335559395c9bb0807"
+  },
+  "userId": "id_zzfk7kns4",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_22791.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_45101.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_22791.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_47728.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6681163235559395c9bb0808"
+  },
+  "userId": "id_zzfk7kns4",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_36035.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_24889.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_36035.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_16797.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6681164fe7e701c553113a52"
+  },
+  "userId": "id_zzfk7kns4",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_22791.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_45101.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_105923.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_22791.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6681166535559395c9bb0809"
+  },
+  "userId": "id_zzfk7kns4",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_99462.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_23157.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_99462.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_68763.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6681169de7e701c553113a53"
+  },
+  "userId": "id_zzfk7kns4",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_68763.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_68763.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_112648.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_107204.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "668116ca35559395c9bb080a"
+  },
+  "userId": "id_zzfk7kns4",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_45101.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_99462.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_45101.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_24889.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "668116ef35559395c9bb080b"
+  },
+  "userId": "id_zzfk7kns4",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_107204.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_24889.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_107204.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_22791.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "668117180524780c600bb19d"
+  },
+  "userId": "id_zzfk7kns4",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_16743.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_68763.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_16743.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_16797.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6681175935559395c9bb080c"
+  },
+  "userId": "id_zzfk7kns4",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_16797.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_105923.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_16797.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_47728.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66812d082856fc906fbf520d"
+  },
+  "userId": "id_eb132xx72",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_105923.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_41465.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_16743.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_105923.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66812d202856fc906fbf520e"
+  },
+  "userId": "id_eb132xx72",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_47728.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_47728.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_22791.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_24889.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66812d5f2856fc906fbf520f"
+  },
+  "userId": "id_eb132xx72",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_22791.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_22791.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_36035.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_24889.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66812d6a2856fc906fbf5210"
+  },
+  "userId": "id_eb132xx72",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_23157.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_22791.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_68763.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_23157.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66812d732856fc906fbf5211"
+  },
+  "userId": "id_eb132xx72",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_45101.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_36035.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_45101.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_16743.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66812d8206b5d238e2186f39"
+  },
+  "userId": "id_eb132xx72",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_47728.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_36035.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_22791.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_47728.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66812d8e2856fc906fbf5212"
+  },
+  "userId": "id_eb132xx72",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_99462.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_112648.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_107204.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_99462.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66812dd306b5d238e2186f3a"
+  },
+  "userId": "id_eb132xx72",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_16797.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_68763.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_16797.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_24889.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66812e1306b5d238e2186f3b"
+  },
+  "userId": "id_eb132xx72",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_22791.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_22791.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_16743.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_36035.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66812e1d06b5d238e2186f3c"
+  },
+  "userId": "id_eb132xx72",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_105923.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_105923.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_36035.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_41465.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66815023add9824cbd5be5ae"
+  },
+  "userId": "id_0fsm206ba",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_24889.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_22791.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_47728.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_24889.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6681502aadd9824cbd5be5af"
+  },
+  "userId": "id_0fsm206ba",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_23157.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_16743.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_24889.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_23157.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66815043bf40947843ff1c7a"
+  },
+  "userId": "id_0fsm206ba",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_105923.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_105923.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_107204.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_36035.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66815065bf40947843ff1c7b"
+  },
+  "userId": "id_0fsm206ba",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_23157.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_47728.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_23157.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_45291.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6681508cbf40947843ff1c7c"
+  },
+  "userId": "id_0fsm206ba",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_22791.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_16743.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_105923.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_22791.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6681509ebf40947843ff1c7d"
+  },
+  "userId": "id_0fsm206ba",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_105923.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_105923.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_107204.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_45291.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "668150a7bf40947843ff1c7e"
+  },
+  "userId": "id_0fsm206ba",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_105923.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_41465.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_24889.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_105923.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "668150b24701872d0c53cfac"
+  },
+  "userId": "id_0fsm206ba",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_22791.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_105923.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_22791.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_23157.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "668150bbbf40947843ff1c7f"
+  },
+  "userId": "id_0fsm206ba",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_99462.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_105923.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_112648.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_99462.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "668150c6bf40947843ff1c80"
+  },
+  "userId": "id_0fsm206ba",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_105923.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_36035.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_105923.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_45291.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "668150cdbf40947843ff1c81"
+  },
+  "userId": "id_qcuxdvdfe",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_99462.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_22791.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_41465.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_99462.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "668150d94701872d0c53cfad"
+  },
+  "userId": "id_qcuxdvdfe",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_112648.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_45101.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_112648.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_22791.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "668150e54701872d0c53cfaf"
+  },
+  "userId": "id_qcuxdvdfe",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_105923.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_105923.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_45101.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_47728.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "668150ed4701872d0c53cfb0"
+  },
+  "userId": "id_qcuxdvdfe",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_45101.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_24889.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_112648.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_45101.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66815103bf40947843ff1c82"
+  },
+  "userId": "id_qcuxdvdfe",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_68763.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_107204.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_22791.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_68763.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6681510dbf40947843ff1c83"
+  },
+  "userId": "id_qcuxdvdfe",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_45291.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_105923.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_47728.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_45291.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6681511cbf40947843ff1c84"
+  },
+  "userId": "id_qcuxdvdfe",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_99462.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_36035.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_99462.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_41465.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66815126bf40947843ff1c85"
+  },
+  "userId": "id_qcuxdvdfe",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_24889.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_99462.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_23157.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_24889.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6681512fbf40947843ff1c86"
+  },
+  "userId": "id_qcuxdvdfe",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_45101.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_68763.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_45101.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_16743.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66815138bf40947843ff1c87"
+  },
+  "userId": "id_qcuxdvdfe",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_45291.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_99462.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_45291.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_112648.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6683c4b5abb49c59b352ed53"
+  },
+  "userId": "id_likny08kb",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_99462.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_24889.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_99462.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_41465.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6683c4d10d62da27a16c11e0"
+  },
+  "userId": "id_likny08kb",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_16797.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_41465.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_112648.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_16797.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6683c4e00d62da27a16c11e1"
+  },
+  "userId": "id_likny08kb",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_112648.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_68763.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_16743.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_112648.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6683c4e90d62da27a16c11e2"
+  },
+  "userId": "id_likny08kb",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_36035.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_36035.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_112648.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_24889.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6683c508abb49c59b352ed54"
+  },
+  "userId": "id_likny08kb",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_41465.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_45101.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_41465.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_105923.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6683c512abb49c59b352ed55"
+  },
+  "userId": "id_likny08kb",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_41465.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_105923.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_16743.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_41465.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6683c51dabb49c59b352ed56"
+  },
+  "userId": "id_likny08kb",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_107204.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_36035.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_24889.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_107204.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6683c529abb49c59b352ed57"
+  },
+  "userId": "id_likny08kb",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_105923.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_45291.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_105923.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_107204.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6683c532abb49c59b352ed58"
+  },
+  "userId": "id_likny08kb",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_24889.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_45291.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_24889.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_16797.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6683c53eabb49c59b352ed59"
+  },
+  "userId": "id_likny08kb",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_16797.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_22791.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_105923.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_16797.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "668b018a30e2b82b05645628"
+  },
+  "userId": "id_0bewebsce",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_107204.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_16743.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_107204.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_23157.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "668b019230e2b82b05645629"
+  },
+  "userId": "id_0bewebsce",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_107204.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_16743.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_107204.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_112648.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "668b019b970e021416a58d00"
+  },
+  "userId": "id_0bewebsce",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_99462.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_24889.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_112648.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_99462.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "668b01a1970e021416a58d01"
+  },
+  "userId": "id_0bewebsce",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_23157.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_23157.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_41465.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_107204.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "668b01ad970e021416a58d02"
+  },
+  "userId": "id_0bewebsce",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_99462.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_99462.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_16797.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_107204.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "668b01b3970e021416a58d03"
+  },
+  "userId": "id_0bewebsce",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_24889.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_24889.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_112648.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_41465.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "668b01c4970e021416a58d04"
+  },
+  "userId": "id_0bewebsce",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_16797.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_24889.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_16797.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_22791.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "668b01cf30e2b82b0564562a"
+  },
+  "userId": "id_0bewebsce",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_107204.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_41465.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_16743.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_107204.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "668b01dc30e2b82b0564562b"
+  },
+  "userId": "id_0bewebsce",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_36035.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_24889.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_36035.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_16797.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "668b01e2970e021416a58d05"
+  },
+  "userId": "id_0bewebsce",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_99462.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_99462.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_41465.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_107204.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "668b02595602a3949b81d220"
+  },
+  "userId": "id_4iv1b0ac4",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_105923.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_36035.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_112648.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_105923.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "668b02605602a3949b81d221"
+  },
+  "userId": "id_4iv1b0ac4",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_23157.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_22791.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_45291.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_23157.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "668b0273970e021416a58d07"
+  },
+  "userId": "id_4iv1b0ac4",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_36035.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_107204.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_36035.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_68763.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "668b027c30e2b82b0564562c"
+  },
+  "userId": "id_4iv1b0ac4",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_16797.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_24889.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_45101.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_16797.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "668b028230e2b82b0564562d"
+  },
+  "userId": "id_4iv1b0ac4",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_99462.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_107204.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_99462.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_47728.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "668b028730e2b82b0564562e"
+  },
+  "userId": "id_4iv1b0ac4",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_105923.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_105923.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_36035.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_16797.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "668b02915602a3949b81d222"
+  },
+  "userId": "id_4iv1b0ac4",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_45291.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_45291.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_68763.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_107204.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "668b029c5602a3949b81d223"
+  },
+  "userId": "id_4iv1b0ac4",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_45101.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_22791.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_107204.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_45101.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "668b02ab5602a3949b81d224"
+  },
+  "userId": "id_4iv1b0ac4",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_47728.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_47728.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_16797.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_16743.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "668b02b6970e021416a58d08"
+  },
+  "userId": "id_4iv1b0ac4",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_24889.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_41465.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_22791.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_24889.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "668b02be24e17c4550534e66"
+  },
+  "userId": "id_4iv1b0ac4",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_105923.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_41465.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_24889.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_105923.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "668b02d424e17c4550534e67"
+  },
+  "userId": "id_4iv1b0ac4",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_68763.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_68763.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_24889.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_99462.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "668b02db24e17c4550534e68"
+  },
+  "userId": "id_4iv1b0ac4",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_45101.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_99462.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_41465.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_45101.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "668b02df970e021416a58d09"
+  },
+  "userId": "id_4iv1b0ac4",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_107204.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_107204.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_23157.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_105923.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "668b02e7970e021416a58d0a"
+  },
+  "userId": "id_4iv1b0ac4",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_107204.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_41465.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_112648.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_107204.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "668b02ec5602a3949b81d225"
+  },
+  "userId": "id_4iv1b0ac4",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_107204.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_107204.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_45291.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_36035.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "668b02f05602a3949b81d226"
+  },
+  "userId": "id_4iv1b0ac4",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_41465.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_41465.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_68763.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_45101.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "668b02f524e17c4550534e69"
+  },
+  "userId": "id_4iv1b0ac4",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_45291.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_45291.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_23157.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_105923.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "668b02fb970e021416a58d0b"
+  },
+  "userId": "id_4iv1b0ac4",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_36035.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_36035.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_41465.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_112648.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "668b0301970e021416a58d0c"
+  },
+  "userId": "id_4iv1b0ac4",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_16743.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_68763.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_16743.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_105923.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66924bd382ebbf394a191e2e"
+  },
+  "userId": "id_ebslxrfrj",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_107204.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_107204.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_45101.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_16743.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66924be509119b9e4615faa9"
+  },
+  "userId": "id_ebslxrfrj",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_22791.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_22791.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_99462.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_23157.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66924bf409119b9e4615faaa"
+  },
+  "userId": "id_ebslxrfrj",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_16743.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_22791.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_16743.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_16797.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66924bff82ebbf394a191e2f"
+  },
+  "userId": "id_ebslxrfrj",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_112648.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_47728.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_45101.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_112648.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66924c1482ebbf394a191e30"
+  },
+  "userId": "id_ebslxrfrj",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_107204.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_47728.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_22791.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_107204.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66924c2009119b9e4615faab"
+  },
+  "userId": "id_ebslxrfrj",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_107204.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_105923.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_68763.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_107204.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66924c3182ebbf394a191e31"
+  },
+  "userId": "id_ebslxrfrj",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_99462.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_107204.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_99462.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_16797.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66924c4782ebbf394a191e32"
+  },
+  "userId": "id_ebslxrfrj",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_22791.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_16797.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_24889.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_22791.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66924c5009119b9e4615faac"
+  },
+  "userId": "id_ebslxrfrj",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_36035.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_36035.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_107204.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_105923.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66924c5982ebbf394a191e33"
+  },
+  "userId": "id_ebslxrfrj",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_24889.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_68763.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_47728.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_24889.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66924c61155ce12c68871d1b"
+  },
+  "userId": "id_ebslxrfrj",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_45101.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_99462.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_45101.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_16797.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66924c6e82ebbf394a191e34"
+  },
+  "userId": "id_ebslxrfrj",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_47728.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_41465.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_47728.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_68763.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66924c7509119b9e4615faad"
+  },
+  "userId": "id_ebslxrfrj",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_41465.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_41465.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_16743.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_23157.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66924c8182ebbf394a191e35"
+  },
+  "userId": "id_ebslxrfrj",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_99462.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_107204.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_99462.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_45291.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66924c8d82ebbf394a191e36"
+  },
+  "userId": "id_ebslxrfrj",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_23157.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_68763.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_23157.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_45101.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66924c9382ebbf394a191e37"
+  },
+  "userId": "id_ebslxrfrj",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_105923.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_105923.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_107204.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_99462.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66924c9982ebbf394a191e38"
+  },
+  "userId": "id_ebslxrfrj",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_36035.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_47728.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_36035.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_68763.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66924c9d82ebbf394a191e39"
+  },
+  "userId": "id_ebslxrfrj",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_47728.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_36035.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_47728.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_24889.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66924ca309119b9e4615faae"
+  },
+  "userId": "id_ebslxrfrj",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_22791.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_22791.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_45101.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_16743.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66924ca809119b9e4615faaf"
+  },
+  "userId": "id_ebslxrfrj",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_36035.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_36035.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_99462.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_23157.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66924cef09119b9e4615fab1"
+  },
+  "userId": "id_ihs64rwr6",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_23157.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_16797.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_112648.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_23157.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66924cf8155ce12c68871d1c"
+  },
+  "userId": "id_ihs64rwr6",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_47728.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_24889.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_47728.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_41465.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66924d00155ce12c68871d1d"
+  },
+  "userId": "id_ihs64rwr6",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_23157.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_16797.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_99462.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_23157.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66924d05155ce12c68871d1e"
+  },
+  "userId": "id_ihs64rwr6",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_107204.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_41465.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_107204.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_22791.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66924d0a155ce12c68871d1f"
+  },
+  "userId": "id_ihs64rwr6",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_41465.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_105923.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_47728.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_41465.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66924d16155ce12c68871d20"
+  },
+  "userId": "id_ihs64rwr6",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_45101.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_105923.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_112648.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_45101.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66924d1b155ce12c68871d21"
+  },
+  "userId": "id_ihs64rwr6",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_23157.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_22791.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_23157.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_16743.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66924d26155ce12c68871d22"
+  },
+  "userId": "id_ihs64rwr6",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_105923.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_105923.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_36035.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_99462.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66924d30155ce12c68871d23"
+  },
+  "userId": "id_ihs64rwr6",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_45101.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_41465.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_45101.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_24889.jpg"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66924d34155ce12c68871d24"
+  },
+  "userId": "id_ihs64rwr6",
+  "chosenImage": "https://recipe-similarity.vercel.app/german_food/k_99462.jpg",
+  "availableImages": [
+    "https://recipe-similarity.vercel.app/german_food/k_105923.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_99462.jpg",
+    "https://recipe-similarity.vercel.app/german_food/k_45101.jpg"
+  ]
+}]

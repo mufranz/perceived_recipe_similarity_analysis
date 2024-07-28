@@ -1,0 +1,240 @@
+[{
+  "_id": {
+    "$oid": "667c6423bc87b358be226fb3"
+  },
+  "userId": "id_byzdrn2y2",
+  "age": "25",
+  "gender": "female",
+  "eatingHabit": "pescatarian",
+  "websiteVisits": "1-2-times-a-month",
+  "homecookedMeal": "daily",
+  "cookingExperience": "5"
+},
+{
+  "_id": {
+    "$oid": "667c64f0270368330cf75415"
+  },
+  "userId": "id_q0j33hksx",
+  "age": "25",
+  "gender": "female",
+  "eatingHabit": "vegetarian",
+  "websiteVisits": "weekly",
+  "homecookedMeal": "5-6-times",
+  "cookingExperience": "3"
+},
+{
+  "_id": {
+    "$oid": "667c6a767f9d388f5502363d"
+  },
+  "userId": "id_j0b6pbmia",
+  "age": "25",
+  "gender": "female",
+  "eatingHabit": "vegetarian",
+  "websiteVisits": "1-2-times-a-month",
+  "homecookedMeal": "3-4-times",
+  "cookingExperience": "2"
+},
+{
+  "_id": {
+    "$oid": "667d27f4d8b5a05ec89aacd1"
+  },
+  "userId": "id_s263pjce5",
+  "age": "25",
+  "gender": "female",
+  "eatingHabit": "vegetarian",
+  "websiteVisits": "1-2-times-a-month",
+  "homecookedMeal": "daily",
+  "cookingExperience": "5"
+},
+{
+  "_id": {
+    "$oid": "667d84e48b3924aaeeda9a59"
+  },
+  "userId": "id_rbgx9qm4x",
+  "age": "26",
+  "gender": "male",
+  "eatingHabit": "vegetarian",
+  "websiteVisits": "weekly",
+  "homecookedMeal": "5-6-times",
+  "cookingExperience": "4"
+},
+{
+  "_id": {
+    "$oid": "667d959a2ff37b10f499737f"
+  },
+  "userId": "id_755ubcyk3",
+  "age": "50",
+  "gender": "female",
+  "eatingHabit": "none",
+  "websiteVisits": "multiple-times-a-week",
+  "homecookedMeal": "5-6-times",
+  "cookingExperience": "3"
+},
+{
+  "_id": {
+    "$oid": "667dab824b6a08a3d9400705"
+  },
+  "userId": "id_78t7lgelw",
+  "age": "25",
+  "gender": "female",
+  "eatingHabit": "vegetarian",
+  "websiteVisits": "1-2-times-a-month",
+  "homecookedMeal": "daily",
+  "cookingExperience": "3"
+},
+{
+  "_id": {
+    "$oid": "667ea855727324598170f6fd"
+  },
+  "userId": "id_lp1xw7obn",
+  "age": "46",
+  "gender": "male",
+  "eatingHabit": "none",
+  "websiteVisits": "1-2-times-a-month",
+  "homecookedMeal": "5-6-times",
+  "cookingExperience": "4"
+},
+{
+  "_id": {
+    "$oid": "667ef6117758ff43cfca3c08"
+  },
+  "userId": "id_kgjuzfbp5",
+  "age": "55",
+  "gender": "male",
+  "eatingHabit": "none",
+  "websiteVisits": "1-2-times-a-month",
+  "homecookedMeal": "5-6-times",
+  "cookingExperience": "2"
+},
+{
+  "_id": {
+    "$oid": "667fcf4b2d0afdbd60275c8c"
+  },
+  "userId": "id_k674naqak",
+  "age": "25",
+  "gender": "female",
+  "eatingHabit": "vegetarian",
+  "websiteVisits": "1-2-times-a-month",
+  "homecookedMeal": "3-4-times",
+  "cookingExperience": "3"
+},
+{
+  "_id": {
+    "$oid": "66800617dcbfdad1c71fa822"
+  },
+  "userId": "id_vfhpfq2x7",
+  "age": "27",
+  "gender": "female",
+  "eatingHabit": "vegetarian",
+  "websiteVisits": "weekly",
+  "homecookedMeal": "1-2-times",
+  "cookingExperience": "5"
+},
+{
+  "_id": {
+    "$oid": "668117c035559395c9bb080d"
+  },
+  "userId": "id_zzfk7kns4",
+  "age": "56",
+  "gender": "female",
+  "eatingHabit": "vegetarian",
+  "websiteVisits": "weekly",
+  "homecookedMeal": "daily",
+  "cookingExperience": "5"
+},
+{
+  "_id": {
+    "$oid": "66812e7b06b5d238e2186f3d"
+  },
+  "userId": "id_eb132xx72",
+  "age": "65",
+  "gender": "female",
+  "eatingHabit": "carnivore",
+  "websiteVisits": "multiple-times-a-week",
+  "homecookedMeal": "3-4-times",
+  "cookingExperience": "5"
+},
+{
+  "_id": {
+    "$oid": "668150e04701872d0c53cfae"
+  },
+  "userId": "id_0fsm206ba",
+  "age": "27",
+  "gender": "female",
+  "eatingHabit": "vegetarian",
+  "websiteVisits": "never",
+  "homecookedMeal": "daily",
+  "cookingExperience": "3"
+},
+{
+  "_id": {
+    "$oid": "6681514cbf40947843ff1c88"
+  },
+  "userId": "id_qcuxdvdfe",
+  "age": "25",
+  "gender": "male",
+  "eatingHabit": "vegetarian",
+  "websiteVisits": "1-2-times-a-month",
+  "homecookedMeal": "daily",
+  "cookingExperience": "4"
+},
+{
+  "_id": {
+    "$oid": "6683c559abb49c59b352ed5a"
+  },
+  "userId": "id_likny08kb",
+  "age": "26",
+  "gender": "female",
+  "eatingHabit": "pescatarian",
+  "websiteVisits": "multiple-times-a-week",
+  "homecookedMeal": "3-4-times",
+  "cookingExperience": "4"
+},
+{
+  "_id": {
+    "$oid": "668b0202970e021416a58d06"
+  },
+  "userId": "id_0bewebsce",
+  "age": "25",
+  "gender": "male",
+  "eatingHabit": "none",
+  "websiteVisits": "1-2-times-a-month",
+  "homecookedMeal": "5-6-times",
+  "cookingExperience": "4"
+},
+{
+  "_id": {
+    "$oid": "668b0312970e021416a58d0d"
+  },
+  "userId": "id_4iv1b0ac4",
+  "age": "24",
+  "gender": "male",
+  "eatingHabit": "none",
+  "websiteVisits": "weekly",
+  "homecookedMeal": "3-4-times",
+  "cookingExperience": "3"
+},
+{
+  "_id": {
+    "$oid": "66924cc209119b9e4615fab0"
+  },
+  "userId": "id_ebslxrfrj",
+  "age": "27",
+  "gender": "male",
+  "eatingHabit": "none",
+  "websiteVisits": "weekly",
+  "homecookedMeal": "3-4-times",
+  "cookingExperience": "3"
+},
+{
+  "_id": {
+    "$oid": "66924d4d155ce12c68871d25"
+  },
+  "userId": "id_ihs64rwr6",
+  "age": "22",
+  "gender": "male",
+  "eatingHabit": "vegetarian",
+  "websiteVisits": "1-2-times-a-month",
+  "homecookedMeal": "1-2-times",
+  "cookingExperience": "2"
+}]
